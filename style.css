@@ -60,7 +60,15 @@ p{
     width: auto;
 }
 
+#button-box:hover{
+    border: 2px solid #6096B4 ;
 
+}
+
+svg:hover{
+    height: 2.8rem;
+    width: 2.8rem;
+}
 
 
 
